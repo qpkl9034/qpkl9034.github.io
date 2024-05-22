@@ -5,4 +5,4 @@
 layout: page
 ---
 
-> Anonymous Website for NeurIPS Paper, "Skeleton Gaussians: Interpretable 3D Multi-view Reconstruction by Attention-guided Differentiable Primitives and Gaussians".
+> Anonymous Website for NeurIPS 2024 Submission, "Skeleton Gaussians: Interpretable 3D Multi-view Reconstruction by Attention-guided Differentiable Primitives and Gaussians".
