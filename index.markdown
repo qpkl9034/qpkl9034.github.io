@@ -39,10 +39,10 @@ Anonymous Website for ICLR 2025 Submission 6773, **\"*GaussianBlock: Building Pa
     </div>
     <!-- 1st row ours -->
     <div class="column ours">
-        <img src="media/ours_pic_0-1.jpeg" alt="Our Picture 1-1">
+        <img src="media/ours_pic_0-2.jpeg" alt="Our Picture 1-2">
     </div>
     <div class="column ours">
-        <img src="media/ours_pic_0-2.jpeg" alt="Our Picture 1-2">
+        <img src="media/ours_pic_0-1.jpeg" alt="Our Picture 1-1">
     </div>
     <div class="column ours">
         <video controls>
@@ -69,10 +69,10 @@ Anonymous Website for ICLR 2025 Submission 6773, **\"*GaussianBlock: Building Pa
     </div>
     <!-- 2nd row ours -->
     <div class="column ours">
-        <img src="media/ours_pic_1-1.jpeg" alt="Our Picture 2-1">
+        <img src="media/ours_pic_1-2.jpeg" alt="Our Picture 2-2">
     </div>
     <div class="column ours">
-        <img src="media/ours_pic_1-2.jpeg" alt="Our Picture 2-2">
+        <img src="media/ours_pic_1-1.jpeg" alt="Our Picture 2-1">
     </div>
     <div class="column ours">
         <video controls>
@@ -129,10 +129,10 @@ Anonymous Website for ICLR 2025 Submission 6773, **\"*GaussianBlock: Building Pa
     </div>
     <!-- 4th row ours -->
     <div class="column ours">
-        <img src="media/ours_pic_3-1.jpeg" alt="Our Picture 4-1">
+        <img src="media/ours_pic_3-2.jpeg" alt="Our Picture 4-1">
     </div>
     <div class="column ours">
-        <img src="media/ours_pic_3-2.jpeg" alt="Our Picture 4-2">
+        <img src="media/ours_pic_3-1.jpeg" alt="Our Picture 4-2">
     </div>
     <div class="column ours">
         <video controls>
@@ -144,4 +144,4 @@ Anonymous Website for ICLR 2025 Submission 6773, **\"*GaussianBlock: Building Pa
 
 >
 
-> \* Double-click to watch videos in full-screen mode.
+> \* Please right-click and select "Full Screen" to watch videos in full-screen mode.
